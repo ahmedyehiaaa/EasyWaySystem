@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Easy Way System</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="welcome">Welcome to EWS ...</string>
+    <string name="signing">SIGN IN\nFORM ,,</string>
+    <string name="login_button">Log In</string>
+    <string name="deal_by">Designed By (EWS) Team</string>
+    <string name="title_activity_maps3">Map</string>
+
+
+</resources>
